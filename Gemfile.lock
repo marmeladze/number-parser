@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    number_parser (0.1.0)
+    number_parser (0.2.0)
 
 GEM
   remote: https://rubygems.org/
